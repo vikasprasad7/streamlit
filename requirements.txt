@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-pip install matplotlib
+matplotlib
 matplotlib-inline
 sklearn
